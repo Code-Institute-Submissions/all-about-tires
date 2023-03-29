@@ -1,18 +1,31 @@
-@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Ubuntu:wght@300&display=swap');
 
 *{
     margin: 0;
     padding: 0;
     border: none;
 }
-
+/* Checked best color for impaired eyesight */
 body {
-    font-family: orbitron, sans-serif;
+    font-family: ubuntu, sans-serif;
     font-weight: 300;
+    color: #252525;
 
 }
+/* headings and logo */
 
-/* hero image */
+h1, h2, nav {
+    font-family: orbitron, sans-serif;
+    text-transform: uppercase;
+    color:#3a3a3a;
+
+}
+#logo {
+    float:left;
+    font-size: 280%;
+}
+
+/* hero image, credit to https://www.newcityautocorp.com/ */
 
 #hero-image {
     
