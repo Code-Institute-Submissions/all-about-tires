@@ -12,13 +12,15 @@ body {
     color: white;
 
 }
-body {background-color: #3a3a3a}
+body {background-color: #3a3a3a
+}
 /* headings and logo */
 
 h1, h2, nav {
     font-family: orbitron, sans-serif;
     text-transform: uppercase;
     color: white;
+    
 
 }
 #logo {
@@ -69,37 +71,21 @@ line-height: 80px;
 
 #history {
     height: 600;
+    margin-left: 20px;
 }
 
-.left-about-vertical {
-    padding-top: 30px;
-    width: 33%;
-    float: left;
-    
-    border-right: 1px solid #000900;
-    position: absolute;
+#text {
+    margin-left: 20px;
 
-    background-color: brown;
 }
-
-
-.right-about-vertical {
-    padding-top: 30px;
-    width: 33%;
-    float: right;
-    background-color:blueviolet;
-    border-right: 1px solid #000900;
-    position: absolute;
-    right: 33%;
-    
-}
-
-.center-about-vertical {
+#center {
     width: 33%;
     margin: 0 auto;
-    background-color:blue;
-
-    border-right: 1px solid #000900;
-    position: absolute;
-    right: 33%;       
 }
+
+
+
+
+
+
+      
