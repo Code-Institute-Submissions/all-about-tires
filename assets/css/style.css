@@ -122,7 +122,14 @@ body {
 
  /* for medium screen sizes from 950px wide and down*/
  @media screen and (max-width: 950px) {}
-  
-     
+
+
+     /* services page, background image credit to https://www.tire.ae/abu-dhabi/ */
+
+     #background {
+        background-color: #3a3a3a;
+        
+       
+     }
 
     
