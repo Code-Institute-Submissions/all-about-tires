@@ -78,7 +78,7 @@ line-height: 80px;
     margin-left: 20px;
 }
 
-#text {
+.text {
     margin-left: 20px;
     width: 60%;
     float: left;
@@ -124,7 +124,7 @@ body {
  @media screen and (max-width: 950px) {}
 
 
-     /* services page, background image credit to https://www.tire.ae/abu-dhabi/ */
+     /* services page, background image credit to https://d2hucwwplm5rxi.cloudfront.net/wp-content/uploads/2021/09/08092448/tyres-in-dubai-090820210218.jpg */
 
      #background {
         background-color: #3a3a3a;
