@@ -114,15 +114,15 @@ footer {
 /* for larger to medium screens size from 1200px wide and down*/
 @media screen and (max-width: 1200px) {
 body {
-    widht: 65%;
+    width: 65%;
     height: 1200px; 
     margin: 0 auto;
 }
 }
 
  /* for medium screen sizes from 950px wide and down*/
- @media screen and (max-width: 950px) {
-    body {
+ @media screen and (max-width: 950px) {}
+  
+     
 
-    }
- }
+    
