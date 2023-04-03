@@ -166,10 +166,10 @@ body {
     cursor: pointer;
   }
   input[type=submit]:hover {
-    background-color: #4cd9c6;
+    background-color: #3a3a3a;
   }
   .container {
     border-radius: 8px;
-    background-color: #3a3a3a;
+    background-color: #4cd9c6;
     padding: 15px;
   }
