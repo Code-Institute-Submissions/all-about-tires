@@ -140,9 +140,36 @@ body {
     margin-bottom: 5% ;
 }
 
-/* contact form with background */
+/* contact form with background, css credit to https://www.w3docs.com/snippets/css/how-to-create-contact-form-with-css.html */ 
 
-
-
-
-    
+* {
+    box-sizing: border-box;
+  }
+  input[type=text],
+  select,
+  textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #eeeeee;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 8px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  input[type=submit] {
+    background-color: #3a3a3a;
+    color: #ffffff;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+  }
+  input[type=submit]:hover {
+    background-color: #4cd9c6;
+  }
+  .container {
+    border-radius: 8px;
+    background-color: #3a3a3a;
+    padding: 15px;
+  }
