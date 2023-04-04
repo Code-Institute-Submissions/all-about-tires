@@ -31,25 +31,16 @@
         </nav>
     </header>
     <!--form credit to https://www.w3docs.com/snippets/css/how-to-create-contact-form-with-css.html-->
-    <div class="container">
-        <form action="/form/submit" method="POST">
-          
-            <label for="fname"></label>
-          <input type="text" id="fname" name="name" placeholder="Type your name">
-          
-          <label for="lname"></label>
-          <input type="text" id="lname" name="surname" placeholder="Type your last name">
-          
-          <label for="mail"></label>
-          <input type="text" id="mail" name="e-mail" placeholder="Type your e-mail">
-          
-          
-          <label for="message">Message</label>
-          <textarea id="message" name="message" placeholder="Type your message" style="height: 200px"></textarea>
-          <input type="submit" value="Send">
-        </form>
-      </div>
+    
+    <form>      
+        <input name="name" type="text" class="feedback-input" placeholder="Name" />   
+        <input name="email" type="text" class="feedback-input" placeholder="Email" />
+        <textarea name="text" class="feedback-input" placeholder="Comment"></textarea>
+        <input type="submit" value="SUBMIT"/>
+      </form>
+    
     <footer>
+        
         <!--social networks, help from love running project-->
         <ul class="social-networks">
             <li>
@@ -69,10 +60,10 @@
                 <a href="https://goo.gl/maps/wzGZ5YGTh8HNiK8T6" target="_blank" rel="noopener" aria-label="Visit us (opens in a new tab)">
                     <i class="fa-solid fa-location-dot" style="color: #ffffff;"></i>
               </li>
+            </ul>
+            
 
-
-        </ul>
-        
+    
     </footer>
     <!-- font awesome link, credit to https://cdnjs.com/libraries/font-awesome-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />

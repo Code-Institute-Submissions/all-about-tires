@@ -31,6 +31,7 @@ h3 {
     float:left;
     font-size: 280%;
     margin-left: 35px;
+    margin-top: 1px;
 }
 
 /* hero image, credit to https://www.newcityautocorp.com/ */
@@ -95,22 +96,30 @@ hr {
     border-bottom: 2px solid;
     
 }
-/* footer styling */
+/* footer styling, credit to love running project*/
 
 footer {
-    height: 100px;
+   
+   height: 150px;
+    
+    
 }
 
 .social-networks > li {
     display: inline;
-    
+   
+}
+
+.social-networks {
+    text-align:center;
 }
 
 .social-networks i {
-    font-size: 40px;
-    margin: 70px;
-    
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
 }
+
 /* for larger to medium screens size from 1200px wide and down*/
 @media screen and (max-width: 1200px) {
 body {
@@ -137,39 +146,58 @@ body {
 }
     
 .margin {
-    margin-bottom: 5% ;
+    margin-bottom: 10% ;
 }
 
 /* contact form with background, css credit to https://www.w3docs.com/snippets/css/how-to-create-contact-form-with-css.html */ 
 
-* {
-    box-sizing: border-box;
-  }
-  input[type=text],
-  select,
-  textarea {
-    width: 100%;
-    padding: 8px;
-    border: 1px solid #eeeeee;
-    border-radius: 4px;
-    box-sizing: border-box;
-    margin-top: 8px;
-    margin-bottom: 16px;
-    resize: vertical;
-  }
-  input[type=submit] {
-    background-color: green;
-    color: #ffffff;
-    padding: 12px 20px;
-    border: none;
-    border-radius: 7px;
-    cursor: pointer;
-  }
-  input[type=submit]:hover {
-    background-color: #3a3a3a;
-  }
-  .container {
-    border-radius: 8px;
-    background-color: #3a3a3a;
-    padding: 15px;
-  }
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body { background:rgb(30,30,40); }
+form { max-width:420px; margin:50px auto; 
+    
+      
+      
+}
+
+.feedback-input {
+  color:white;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight:500;
+  font-size: 18px;
+  border-radius: 5px;
+  line-height: 22px;
+  background-color: transparent;
+  border:2px solid #CC6666;
+  transition: all 0.3s;
+  padding: 13px;
+  margin-bottom: 15px;
+  width:100%;
+  box-sizing: border-box;
+  outline:0;
+}
+
+.feedback-input:focus { border:2px solid #CC4949; }
+
+textarea {
+  height: 150px;
+  line-height: 150%;
+  resize:vertical;
+}
+
+[type="submit"] {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  width: 100%;
+  background:#CC6666;
+  border-radius:5px;
+  border:0;
+  cursor:pointer;
+  color:white;
+  font-size:24px;
+  padding-top:10px;
+  padding-bottom:10px;
+  transition: all 0.3s;
+  margin-top:-4px;
+  font-weight:700;
+}
+[type="submit"]:hover { background:#CC4949; }
