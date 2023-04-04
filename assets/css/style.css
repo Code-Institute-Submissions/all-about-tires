@@ -155,7 +155,7 @@ body {
 
 body { background:rgb(30,30,40); }
 form { max-width:420px; margin:50px auto; 
-    
+    padding-top:150px;
       
       
 }
@@ -201,3 +201,4 @@ textarea {
   font-weight:700;
 }
 [type="submit"]:hover { background:#CC4949; }
+
