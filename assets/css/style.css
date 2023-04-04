@@ -133,21 +133,6 @@ footer {
     padding: 5%;
 }
 
-
-
-/* for larger to medium screens size from 1200px wide and down*/
-@media screen and (max-width: 1200px) {
-body {
-    width: 65%;
-    height: 1200px; 
-    margin: 0 auto;
-}
-}
-
- /* for medium screen sizes from 950px wide and down*/
- @media screen and (max-width: 950px) {}
-
-
      /* services page, background image credit to https://d2hucwwplm5rxi.cloudfront.net/wp-content/uploads/2021/09/08092448/tyres-in-dubai-090820210218.jpg */
 
      #background {
@@ -217,3 +202,25 @@ textarea {
 }
 [type="submit"]:hover { background:#CC4949; }
 
+/* for larger to medium screens size from 1200px wide and down*/
+@media screen and (max-width: 1200px) {
+    body {
+        width: 65%;
+        height: 1200px; 
+        margin: 0 auto;
+    }
+    }
+
+    /* for medium screen sizes from 950px wide and down*/
+ @media screen and (max-width: 950px) {
+    #menu {
+      clear: left;
+      float: left;
+      margin-left: 30px;
+      margin-bottom: 20px;
+      line-height: 25px;  
+    }
+ }
+ body {
+    padding: 30px 0;
+ }
