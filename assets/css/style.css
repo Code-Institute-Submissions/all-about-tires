@@ -95,10 +95,12 @@ line-height: 80px;
 
 .text {
     text-align: center;
+    padding: 80px;
+    
 }
 #center {
     text-align: center;
-    
+    padding-top: 50px;
 }
 
 h3 {
@@ -108,11 +110,11 @@ hr {
     border-bottom: 2px solid;
     
 }
-/*check problem prices*/
-#prices {
-    margin-bottom: 5%;
-}
 
+
+#video {
+    position: inherit;
+}
     
 
 /* footer styling, credit to love running project*/
