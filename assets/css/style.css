@@ -82,7 +82,7 @@ line-height: 80px;
 
 
 
-         #history {
+    .history {
    
     margin-left: 20px;
     margin-right: 20px;
@@ -107,9 +107,12 @@ hr {
     border-bottom: 2px solid;
     
 }
+#unordered {
+    text-align: center;
+}
 
 
-#video {
+.video {
     margin-left: 10%;
     margin-right: 10%;
 }
@@ -120,9 +123,7 @@ hr {
 footer {
    
    height: 150px;
-   
-    
-    
+      
 }
 
 .social-networks > li {
@@ -154,7 +155,7 @@ footer {
 }
     
 .margin {
-    margin-bottom: 10% ;
+    margin-bottom: 5%;
 }
 
 /* contact form with background, css credit to https://www.w3docs.com/snippets/css/how-to-create-contact-form-with-css.html */ 
