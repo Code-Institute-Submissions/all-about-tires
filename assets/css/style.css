@@ -81,12 +81,7 @@ line-height: 80px;
          /* history and services */
 
 
-  
 
-
-#right-text {
-    margin-left: 30px;
-}
          #history {
    
     margin-left: 20px;
@@ -95,7 +90,9 @@ line-height: 80px;
 
 .text {
     text-align: center;
-    padding: 80px;
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
     
 }
 #center {
@@ -113,7 +110,8 @@ hr {
 
 
 #video {
-    position: inherit;
+    margin-left: 10%;
+    margin-right: 10%;
 }
     
 
