@@ -92,8 +92,8 @@ line-height: 70px;
 /* history text about the car tire */
 .text {
     text-align: center;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
     
 }
 #center {
@@ -108,14 +108,13 @@ hr {
 #unordered {
     text-align: center;
 }
-/* help from https://www.w3schools.com/howto/howto_css_image_center.asp */
-  
-
-.video {
-    max-width: 100px;
-    height: auto;
+/* red box around tire compound */
+#boxed {
+    border: 2px solid #CC4949 ;
+    margin-left: 30px;
+    margin-right: 30px;
 }
-    
+
 
 /* footer styling, credit to love running project*/
 
@@ -224,6 +223,31 @@ textarea {
       
     } 
  }
+ @media screen and (max-width: 450px){
+ #menu {
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px ;
+    margin-bottom: 20px;
+    line-height: 25px;  
+    display:inline;
+    font-size: 70%;
+ }
+ }
+ @media screen and (max-width: 450px){
+    #logo {
+       clear: left;
+       float: left;
+       margin-left: 30px;
+       margin-right: 30px ;
+       margin-bottom: 20px;
+       line-height: 25px;  
+       display:inline;
+       font-size: 150%;
+
+
+ 
  @media screen  and (max-width: 950px) {
     #hero-image {
         
