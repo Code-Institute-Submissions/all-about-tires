@@ -42,12 +42,12 @@ h3 {
     margin-top: 1px;
 }
 
-/* hero image, credit to https://www.newcityautocorp.com/ */
+/* hero image credit <a href="https://pixabay.com/sv/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1851246">Pexels</a> från <a href="https://pixabay.com/sv//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1851246">Pixabay</a> */
 
 #hero-image {
     
     width: 100%;
-    height: 400px;    
+    height: 600px;    
     background: url('/assets/images/porsche-g07b149d37_1280.jpg') no-repeat center center;
     background-size: cover;
 }
@@ -109,19 +109,7 @@ hr {
     text-align: center;
 }
 /* help from https://www.w3schools.com/howto/howto_css_image_center.asp */
-  img { 
   
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
-  height: 600px;
-}
-#responsive {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;  
-}
 
 .video {
     max-width: 100px;
@@ -236,8 +224,12 @@ textarea {
       
     } 
  }
- 
-  /* hero-image screen sizes*/
+ @media screen  and (max-width: 950px) {
+    #hero-image {
+        
+    }
+ }
+  
  
  
  
