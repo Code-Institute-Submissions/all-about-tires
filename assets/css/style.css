@@ -42,7 +42,7 @@ h3 {
     margin-top: 1px;
 }
 
-/* hero image credit <a href="https://pixabay.com/sv/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1851246">Pexels</a> från <a href="https://pixabay.com/sv//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1851246">Pixabay</a> */
+/* hero image credit pixabay https://pixabay.com/sv/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1851246">Pexels</a> */
 
 #hero-image {
     
@@ -112,7 +112,12 @@ hr {
     margin-right: 35%;
     border-radius: 25px;
 }
-
+/* help from https://www.w3schools.com/howto/howto_css_list_without_bullets.asp */
+ul.no-bullets {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
 
 /* red box around tire compound, information from https://www.w3schools.com/ */
 #boxed {
