@@ -94,6 +94,7 @@ line-height: 70px;
     text-align: center;
     margin-left: 30px;
     margin-right: 30px;
+    margin-bottom:30px ;
     
 }
 #center {
@@ -131,7 +132,8 @@ ul.no-bullets {
     border: 2px solid #CC4949 ;
     margin-left: 30px;
     margin-right: 30px;
-    border-radius: 25px; 
+    border-radius: 25px;
+     
 }
 /* image credit to cottonbro studio: https://www.pexels.com/sv-se/foto/bil-fordon-neon-fixa-4488665/ */
 #garage {
