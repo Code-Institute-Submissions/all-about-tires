@@ -128,6 +128,7 @@ hr {
     background: url('/assets/images/pexels-cottonbro-studio-4488665.jpg') no-repeat center center;
     background-size: cover;
     
+    
 }
 /* footer styling, credit to love running project*/
 
@@ -152,14 +153,17 @@ footer {
     padding: 5%;
 }
 
-     /* services page, background image credit to https://d2hucwwplm5rxi.cloudfront.net/wp-content/uploads/2021/09/08092448/tyres-in-dubai-090820210218.jpg */
-
 #background {
     background-color: #3a3a3a;
         }
   
 .margin {
     margin-bottom: 5%;
+}
+
+video {
+    width: 100%;
+  height: auto;
 }
 
 /* contact form with background, css credit to https://www.w3docs.com/snippets/css/how-to-create-contact-form-with-css.html */ 
@@ -238,7 +242,7 @@ textarea {
  }
  /*  for small screen sizes from 450 px down to 320px */
  @media screen and (max-width: 450px){
- #menu {
+ #menu, form {
     clear: left;
     float: left;
     margin-left: 30px;
@@ -262,5 +266,10 @@ textarea {
     }
 }
  
- 
+@media screen and (max-width: 430px) {
+    #hero-image, #garage {
+padding-block: 10px;
+position:relative;
+    }
+}
  
