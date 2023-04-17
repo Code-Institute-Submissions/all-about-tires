@@ -48,7 +48,7 @@ h3 {
     
     width: 100%;
     height: 600px;    
-    background: url('/assets/images/porsche-g07b149d37_1280.jpg') no-repeat center center;
+    background: url('/assets/images/porsche-gfe38b6777_1920_150.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -114,10 +114,17 @@ hr {
 }
 /* help from https://www.w3schools.com/howto/howto_css_list_without_bullets.asp */
 ul.no-bullets {
+    font-family:orbitron ;
     list-style-type: none;
     margin: 0;
     padding: 0;
+    margin-bottom: 10px;
   }
+  .space:not(:last-child) {
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+
 
 /* red box around tire compound, information from https://www.w3schools.com/ */
 #boxed {
@@ -130,7 +137,7 @@ ul.no-bullets {
 #garage {
     width: 100%;
     height: 600px;
-    background: url('/assets/images/pexels-cottonbro-studio-4488665.jpg') no-repeat center center;
+    background: url('/assets/images/pexels-cottonbro-studio-4488665_2_300.jpg') no-repeat center center;
     background-size: cover;
     
     
@@ -232,6 +239,7 @@ textarea {
  
     }
 
+
     /* for medium screen sizes from 950px wide and down*/
  @media screen and (max-width: 950px) {
     #menu {
@@ -272,7 +280,7 @@ textarea {
 }
  
 @media screen and (max-width: 430px) {
-    #hero-image, #garage {
+#hero-image, #garage {
 padding-block: 10px;
 position:relative;
     }
