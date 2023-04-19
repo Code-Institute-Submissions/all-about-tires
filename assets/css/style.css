@@ -295,3 +295,12 @@ position:relative;
         height: 800px;
     }
 }
+@media screen and (min-width: 800px){
+    #unordered {
+        text-align: center;
+        border: 2px solid #CC4949 ;
+        margin-left: 30%;
+        margin-right: 30%;
+        border-radius: 25px;
+}
+}
