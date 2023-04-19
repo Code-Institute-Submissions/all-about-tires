@@ -48,7 +48,7 @@ h3 {
     
     width: 100%;
     height: 600px;    
-    background: url('/assets/images/porsche-gfe38b6777_1920_150.jpg') no-repeat center center;
+    background: url('../images/porsche-gfe38b6777_1920_150.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -139,7 +139,7 @@ ul.no-bullets {
 #garage {
     width: 100%;
     height: 600px;
-    background: url('/assets/images/pexels-cottonbro-studio-4488665_2_300.jpg') no-repeat center center;
+    background: url('../images/pexels-cottonbro-studio-4488665_2_300.jpg') no-repeat center center;
     background-size: cover;
     
     
