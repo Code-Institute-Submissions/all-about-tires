@@ -83,8 +83,6 @@ line-height: 70px;
     
          /* history and services */
 
-
-
 .history {
    
    text-align: center;
@@ -238,11 +236,9 @@ textarea {
         height: 1200px; 
         margin: 0 auto;
     }
- 
-    }
+  }
 
-
-    /* for medium screen sizes from 950px wide and down*/
+/* for medium screen sizes from 950px wide and down*/
  @media screen and (max-width: 950px) {
     #menu {
       clear: left;
