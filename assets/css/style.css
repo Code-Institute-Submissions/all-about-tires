@@ -109,8 +109,8 @@ hr {
 #unordered {
     text-align: center;
     border: 2px solid #CC4949 ;
-    margin-left: 35%;
-    margin-right: 35%;
+    margin-left: 30px;
+    margin-right: 30px;
     border-radius: 25px;
 }
 /* help from https://www.w3schools.com/howto/howto_css_list_without_bullets.asp */
@@ -176,8 +176,8 @@ footer {
 }
 
 video {
-    width: 100%;
-  height: auto;
+width: 100%;
+height: auto;
 }
 
 /* contact form with background, css credit to https://www.w3docs.com/snippets/css/how-to-create-contact-form-with-css.html */ 
@@ -185,8 +185,8 @@ video {
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 body { background:rgb(30,30,40); }
-form { max-width:420px; margin:50px auto; 
-       padding-top:70px;      
+form { max-width:450px; margin:50px auto; 
+       padding-top:20px;      
 }
 
 .feedback-input {
@@ -266,8 +266,10 @@ textarea {
     line-height: 25px;  
     display:inline;
     font-size: 70%;
+
  }
  }
+
  @media screen and (max-width: 450px){
     #logo {
        clear: left;
@@ -287,4 +289,9 @@ padding-block: 10px;
 position:relative;
     }
 }
- 
+@media screen and (max-width: 450px){
+    body{
+        margin-bottom: 0;
+        height: 800px;
+    }
+}
