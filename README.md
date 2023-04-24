@@ -55,3 +55,15 @@ The site is aimed at anyone who drives a vehicle on the road, everything from mo
 
 ![Printscreen of a video where mechanics change tires on a fast car](assets/images/mechanic-video.png)
 
+## Features left to implement
+
+- The tire workshop also wants automatic booking on the website, where the customer gets a email where it says time and date for the tire change.
+
+## Testing
+
+- I have had six people test the functions on the website where all of them uses different types of cellphones, all of them gave the site good feedback. No bugs were found when the people carried out the tests.
+
+- The site looks good through all screensizes.
+
+### Validator
+
