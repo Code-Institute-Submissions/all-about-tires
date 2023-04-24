@@ -65,5 +65,13 @@ The site is aimed at anyone who drives a vehicle on the road, everything from mo
 
 - The site looks good through all screensizes.
 
-### Validator
+## Validator
+
+- ### HTML 
+  - W3C validator gave no warning or errors.
+- ### CSS 
+  - jigsaw validator gave no errors and one warning.
+  - Warning: Imported templates are not reviewed when entering directly or when uploading files.
+  (The warning is not going to be fixed due to the font family i want for the homepage.)
+- ### Lighthouse
 
