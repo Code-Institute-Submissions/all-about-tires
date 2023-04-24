@@ -36,14 +36,13 @@ The site is aimed at anyone who drives a vehicle on the road, everything from mo
 
 ## Services
 
+- The image should give the reader the impression that the mechanics have a passion for vehicles and are very thorough in their processes to make the car as safe as possible.
+
+![Mechanics beside a car](assets/images/mechanic-services.png)
+
 - This section provides the reader with information about what services the company provides as well as costs for renting the services.
 
 ![Text of the company services](assets/images/services.png)
-
-- The image should give the reader the impression that the mechanics have a passion for vehicles and are very thorough in their processes to make the car as safe as possible.
-
-
-![Mechanics beside a car](assets/images/mechanic-services.png)
 
 ## Contact page
 
@@ -79,4 +78,21 @@ The site is aimed at anyone who drives a vehicle on the road, everything from mo
   - Imported templates are not reviewed when entering directly or when uploading files.
   (The warning is not going to be fixed due to the font family i want for the homepage.)
 
-  
+## Deployment
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch.
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+ ### [All About Tires](https://freddyfrans.github.io/all-about-tires/)
+
+ ## Credits
+ - ### content
+   - The text about the history of the car tire comes from Morgan Pritchett at thenewswheel.com
+   - Tire compounds text comes from Joey Deriquito at autodeal.com
+   - The icons in the footer were taken from fontawesome.com
+
+- ### Media
+  - Hero image was taken from Pexels [Hero Image.](https://pixabay.com/sv/photos/porsche-bil-bromsljus-bakljus-1851246/)
+  - Service image and contact video from Cottonbro studio at Pexels. [Image](https://www.pexels.com/sv-se/foto/bil-fordon-neon-fixa-4488665/) [Video](https://www.pexels.com/video/car-vehicle-fix-repair-4489885/)
+   
