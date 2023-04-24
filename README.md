@@ -71,7 +71,12 @@ The site is aimed at anyone who drives a vehicle on the road, everything from mo
   - W3C validator gave no warning or errors.
 - ### CSS 
   - jigsaw validator gave no errors and one warning.
-  - Warning: Imported templates are not reviewed when entering directly or when uploading files.
-  (The warning is not going to be fixed due to the font family i want for the homepage.)
 - ### Lighthouse
+![Test on google lighthouse](assets/images/lighthouse.png)
 
+## Unfixed Bugs
+- #### Jigsaw validator warning
+  - Imported templates are not reviewed when entering directly or when uploading files.
+  (The warning is not going to be fixed due to the font family i want for the homepage.)
+
+  
