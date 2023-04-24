@@ -34,8 +34,24 @@ The site is aimed at anyone who drives a vehicle on the road, everything from mo
 
 ![footer social media](assets/images/footer.png)
 
+## Services
+
+- This section provides the reader with information about what services the company provides as well as costs for renting the services.
+
+![Text of the company services](assets/images/services.png)
+
+- The image should give the reader the impression that the mechanics have a passion for vehicles and are very thorough in their processes to make the car as safe as possible.
 
 
+![Mechanics beside a car](assets/images/mechanic-services.png)
 
+## Contact page
 
+- On the contact page there is a form where you fill in your name, email address and a box where you explain what you need help with and then press submit.
+
+![Submit form](assets/images/submit-form.png)
+
+- Below the contact form is a video. When you press play, you get to see two mechanics changing a tire on a fast car.
+
+![Printscreen of a video where mechanics change tires on a fast car](assets/images/mechanic-video.png)
 
