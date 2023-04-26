@@ -2,9 +2,25 @@
 
 The goal of this website is to give people a perspective on how long tires have been around, and how important it is to take care of them. Safety starts with the grip on the asphalt.
 The site is aimed at anyone who drives a vehicle on the road, everything from motorcycles to trucks and from slow-moving vehicles to racing vehicles.
+ ### [All About Tires](https://freddyfrans.github.io/all-about-tires/)
+
 
 ![Responsive Mockup for All About Tires](/assets/images/responsivemockupallabouttires.png)
 
+## Navigation
+- [Existing features](#existing-features)
+- [The landing page](#the-landing-page)
+- [History of the car tire](#history-of-the-car-tire)
+- [Tire compound](#tire-compound)
+- [The footer](#the-footer)
+- [Services](#services)
+- [Contact page](#contact-page)
+- [Features left to implement](#features-left-to-implement)
+- [Testing](#testing)
+- [Validator](#validator)
+- [Unfixed bugs](#unfixed-bugs)
+- [Deployment](#deployment)
+- [Credits](#credits)
 ## Existing features
 - Featured on all three pages are home, services and contact, where the navigation is identical for easy use and navigation.
 ![Navigationbar for all three pages](assets/images/navigation-bar.png)
@@ -75,7 +91,7 @@ The site is aimed at anyone who drives a vehicle on the road, everything from mo
 - ### Lighthouse
 ![Test on google lighthouse](assets/images/lighthouse.png)
 
-## Unfixed Bugs
+## Unfixed bugs
 - #### Jigsaw validator warning
   - Imported templates are not reviewed when entering directly or when uploading files.
   (The warning is not going to be fixed due to the font family i want for the homepage.)
@@ -86,7 +102,6 @@ The site is aimed at anyone who drives a vehicle on the road, everything from mo
 From the source section drop-down menu, select the Master Branch.
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
- ### [All About Tires](https://freddyfrans.github.io/all-about-tires/)
 
  ## Credits
  - ### content
@@ -102,5 +117,5 @@ From the source section drop-down menu, select the Master Branch.
 - ### General problem solving credits
     - www.30secondsofcode.org
     - www.w3schools.com
-    - www.codeinstitute.net love running project
-    
+    - www.codeinstitute.net 
+    - www.stackoverflow.com

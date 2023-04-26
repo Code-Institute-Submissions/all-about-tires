@@ -286,9 +286,9 @@ position:relative;
     }
 }
 @media screen and (max-width: 450px){
-    body{
-        margin-bottom: 0;
-        height: 800px;
+body{
+    margin-bottom: 0;
+    height: 800px;
     }
 }
 @media screen and (min-width: 800px){
