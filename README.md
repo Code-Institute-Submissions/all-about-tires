@@ -165,8 +165,11 @@ The site is aimed at anyone who drives a vehicle on the road, everything from mo
 
 - ### HTML 
   - W3C validator gave no warning or errors.
+  [W3c validator ](assets/images/w3c-validator.png)
 - ### CSS 
   - jigsaw validator gave no errors and one warning.
+  [Jigsaw validator](assets/images/jigsaw%20validator.png)
+
 - ### Lighthouse
 ![Test on google lighthouse](assets/images/lighthouse.png)
 
@@ -194,7 +197,7 @@ From the source section drop-down menu, select the Master Branch.
   
   - Service image and contact video from Cottonbro studio at Pexels. [Image](https://www.pexels.com/sv-se/foto/bil-fordon-neon-fixa-4488665/) [Video](https://www.pexels.com/video/car-vehicle-fix-repair-4489885/)
 
-- ### Problem solving credits
+- ### General problem solving credits
     - www.30secondsofcode.org
     - www.w3schools.com
     - www.codeinstitute.net love running project
