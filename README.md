@@ -68,8 +68,11 @@ The site is aimed at anyone who drives a vehicle on the road, everything from mo
 
 - ### HTML 
   - W3C validator gave no warning or errors.
+  
+  
 - ### CSS 
   - jigsaw validator gave no errors and one warning.
+  
 - ### Lighthouse
 ![Test on google lighthouse](assets/images/lighthouse.png)
 
@@ -165,11 +168,12 @@ The site is aimed at anyone who drives a vehicle on the road, everything from mo
 
 - ### HTML 
   - W3C validator gave no warning or errors.
-  [W3c validator ](assets/images/w3c-validator.png)
+  [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffreddyfrans.github.io%2Fall-about-tires%2F)
+  
 - ### CSS 
   - jigsaw validator gave no errors and one warning.
-  [Jigsaw validator](assets/images/jigsaw%20validator.png)
-
+  [Jigsaw validator](assets/images/jigsaw-validator.png)
+  
 - ### Lighthouse
 ![Test on google lighthouse](assets/images/lighthouse.png)
 
