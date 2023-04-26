@@ -44,7 +44,7 @@ h3 {
 
 /* hero image credit pixabay https://pixabay.com/sv/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1851246">Pexels</a> */
 
-#hero-image {
+.hero-image {
     
     width: 100%;
     height: 600px;    
@@ -134,7 +134,7 @@ ul.no-bullets {
      
 }
 /* image credit to cottonbro studio: https://www.pexels.com/sv-se/foto/bil-fordon-neon-fixa-4488665/ */
-#garage {
+.garage {
     width: 100%;
     height: 600px;
     background: url('../images/pexels-cottonbro-studio-4488665_2_300.jpg') no-repeat center center;
@@ -280,7 +280,7 @@ textarea {
 }
  
 @media screen and (max-width: 430px) {
-#hero-image, #garage {
+.hero-image, #garage {
 padding-block: 10px;
 position:relative;
     }
@@ -299,4 +299,16 @@ position:relative;
         margin-right: 30%;
         border-radius: 25px;
 }
+}
+
+@media screen and (max-width: 430px){
+    .garage  { background: url(../images/pexels-cottonbro-studio-small\ \(1\).jpg)  no-repeat;  
+        height:400px;
+       
+    }
+}
+@media screen and (max-width: 500px){
+   .hero-image { background: url(../images/porsche-gc8b9500ec_small.jpg) no-repeat center center;
+height:300px
+    }
 }
