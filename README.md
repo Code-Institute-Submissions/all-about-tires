@@ -2,12 +2,13 @@
 
 The goal of this website is to give people a perspective on how long tires have been around, and how important it is to take care of them. Safety starts with the grip on the asphalt.
 The site is aimed at anyone who drives a vehicle on the road, everything from motorcycles to trucks and from slow-moving vehicles to racing vehicles.
- ### [All About Tires](https://freddyfrans.github.io/all-about-tires/)
+ ## [All About Tires](https://freddyfrans.github.io/all-about-tires/)
 
 
 ![Responsive Mockup for All About Tires](/assets/images/responsivemockupallabouttires.png)
 
 ## Navigation
+- [Design choices](#design-choices)
 - [Existing features](#existing-features)
 - [The landing page](#the-landing-page)
 - [History of the car tire](#history-of-the-car-tire)
@@ -19,8 +20,15 @@ The site is aimed at anyone who drives a vehicle on the road, everything from mo
 - [Testing](#testing)
 - [Validator](#validator)
 - [Unfixed bugs](#unfixed-bugs)
+- [Technologies Used](#technologies-used)
 - [Deployment](#deployment)
 - [Credits](#credits)
+## Design choices
+- ### Typography
+  - The fonts I chosen are orbitron for headings and ubuntu for body text. I chose the design of the fonts to give the website a slightly more futuristic and easy to read look.
+- ### Colour Scheme
+  - I chose white, dark gray and red as the color combination. This is to get good contrasts and a little mystery throughout the website.
+![Colour scheme](assets/images/color2.png)
 ## Existing features
 - Featured on all three pages are home, services and contact, where the navigation is identical for easy use and navigation.
 ![Navigationbar for all three pages](assets/images/navigation-bar.png)
@@ -95,13 +103,22 @@ The site is aimed at anyone who drives a vehicle on the road, everything from mo
 - #### Jigsaw validator warning
   - Imported templates are not reviewed when entering directly or when uploading files.
   (The warning is not going to be fixed due to the font family i want for the homepage.)
-
+## Technologies Used
+- HTML 5
+- CSS
+- Gitpod
+- Github
+- Codeanywhere
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
-  - In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch.
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  1. In the GitHub repository, navigate to the Settings tab.
+  2. Once in Settings, navigate to the Pages tab on the left hand side.
+  
+  3. Under Source, select the branch to master, then click save.
+  
+  4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
+![How to deploy](assets/images/deployment2023-04-27104532.png)
 
  ## Credits
  - ### content
@@ -109,6 +126,7 @@ From the source section drop-down menu, select the Master Branch.
    - Tire compounds text comes from Joey Deriquito at autodeal.com
    - The icons in the footer were taken from fontawesome.com and cdnjs.com
    - Form credit to Zach Saucier on codepen.io
+   - README content credit to Ewan Colquhoun at github
 - ### Media
   - Hero image was taken from Pexels [Hero Image.](https://pixabay.com/sv/photos/porsche-bil-bromsljus-bakljus-1851246/)
   
