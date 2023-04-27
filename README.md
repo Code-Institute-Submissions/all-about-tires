@@ -112,11 +112,11 @@ The site is aimed at anyone who drives a vehicle on the road, everything from mo
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
   1. In the GitHub repository, navigate to the Settings tab.
-  2. Once in Settings, navigate to the Pages tab on the left hand side.
+  1. Once in Settings, navigate to the Pages tab on the left hand side.
   
-  3. Under Source, select the branch to master, then click save.
+  1. Under Source, select the branch to master, then click save.
   
-  4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  1. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 ![How to deploy](assets/images/deployment2023-04-27104532.png)
 
