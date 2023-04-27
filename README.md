@@ -131,9 +131,13 @@ The site is aimed at anyone who drives a vehicle on the road, everything from mo
   - Hero image was taken from Pexels [Hero Image.](https://pixabay.com/sv/photos/porsche-bil-bromsljus-bakljus-1851246/)
   
   - Service image and contact video from Cottonbro studio at Pexels. [Image](https://www.pexels.com/sv-se/foto/bil-fordon-neon-fixa-4488665/) [Video](https://www.pexels.com/video/car-vehicle-fix-repair-4489885/)
-
+ 
 - ### General problem solving credits
     - www.30secondsofcode.org
     - www.w3schools.com
     - www.codeinstitute.net 
     - www.stackoverflow.com
+- ### Acknowledgements
+The site was completed as a Portfolio 1 Project  for the Full Stack Software Developer (e-Commerce) Diploma at the Code Institute.
+I would like to thank my mentor Precious Ijege for the support on this project.
+All About Tires exists and is a company who my friend started, but with a different name. 
